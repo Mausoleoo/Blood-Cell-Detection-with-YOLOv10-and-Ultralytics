@@ -17,3 +17,37 @@ The **Blood Cell Detection** dataset is commonly used to evaluate object detecti
 * Training: 70%
 * Testing: 20%
 * Validation: 10%
+
+The dataset is preprocessed for YOLOv10 and organized into the following folder structure:
+
+images/: Contains the images of blood cells.
+
+labels/: Contains the corresponding labels (in YOLO format) for each image.
+
+link: https://www.kaggle.com/datasets/adhoppin/blood-cell-detection-datatset
+
+-----------------------------------------------------------------------------
+
+# Importance of Blood Cell Recognition
+
+Accurately detecting and classifying blood cells is critical for diagnosing and monitoring various health conditions. Blood cells are categorized into three main types:
+
+* **WBC (White Blood Cells)**: These cells are part of the immune system and help fight infections. Abnormalities in their number can indicate infections, autoimmune diseases, or blood cancers.
+
+* **RBC (Red Blood Cells)**: These cells are responsible for carrying oxygen throughout the body. A low count can lead to anemia, while a high count may indicate other medical conditions.
+
+* **Platelets**: These cells are involved in blood clotting. Abnormal platelet counts can lead to excessive bleeding or clotting disorders.
+
+By automating the detection of these cells, we can speed up diagnostic processes and improve the accuracy of medical diagnoses.
+
+-----------------------------------------------------------------------------
+
+# Training the YOLOv10 Model
+
+The YOLOv10 model was trained using the Ultralytics framework, which provides a simple interface for training, validating, and deploying YOLO models. The model was trained for 20 epochs with the following parameters:
+
+* Image size: 416x416
+* Batch size: 16
+* Device: CUDA (GPU A100)
+
+-----------------------------------------------------------------------------
