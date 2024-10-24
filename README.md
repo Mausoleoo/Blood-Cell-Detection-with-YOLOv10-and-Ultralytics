@@ -79,3 +79,11 @@ Possible improvements and extensions for this project include:
 * Fine-tuning the model with a larger blood cell dataset for improved performance.
 * Adding more classes for different types of blood cells or anomalies.
 * Deploying the model in a real-time medical application for automated diagnostics.
+
+-----------------------------------------------------------------------------
+
+# Acknowledgments
+
+This project uses the Blood Cell Detection dataset, which is publicly available for use in object detection tasks. The dataset and model are provided under the public domain, and all code in this repository can be freely modified and shared.
+
+The Ultralytics framework makes the entire process of training and deploying YOLO models easy and straightforward. Whether you're a beginner or an experienced developer.
