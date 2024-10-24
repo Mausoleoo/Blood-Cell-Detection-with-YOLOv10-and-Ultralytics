@@ -51,3 +51,8 @@ The YOLOv10 model was trained using the Ultralytics framework, which provides a 
 * Device: CUDA (GPU A100)
 
 -----------------------------------------------------------------------------
+
+# Predictions
+
+![val_batch0_labels_20_726668898c6df4cef0c0](https://github.com/user-attachments/assets/cbe01dbd-d69e-4d5c-a399-1c97301413f3)
+
