@@ -12,3 +12,8 @@ The model is designed to detect and classify blood cells in microscopic images, 
 # Dataset
 
 The **Blood Cell Detection** dataset is commonly used to evaluate object detection models in the field of medical imaging. It is a small-scale dataset, making it suitable for fast experimentation and benchmarking.
+
+**Data split**
+* Training: 70%
+* Testing: 20%
+* Validation: 10%
