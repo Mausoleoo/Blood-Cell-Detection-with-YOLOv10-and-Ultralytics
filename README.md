@@ -58,13 +58,15 @@ The YOLOv10 model was trained using the Ultralytics framework, which provides a 
 
 -----------------------------------------------------------------------------
 
-# Metrics
+# Metrics (Test set)
 
 * Precision(B): 0.831
 * Recall(B): 0.804
 * mAP50(B): 0.877
 * mAP50-95(B): 0.615
 * fitness: 0.641
+
+**Metrics (training)**
 
 ![image](https://github.com/user-attachments/assets/d2b258fa-9b9d-44a3-a0b8-c08830f75b67)
 
