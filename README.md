@@ -70,3 +70,12 @@ The YOLOv10 model was trained using the Ultralytics framework, which provides a 
 
 ![image](https://github.com/user-attachments/assets/d2b258fa-9b9d-44a3-a0b8-c08830f75b67)
 
+-----------------------------------------------------------------------------
+
+# Future Work
+
+Possible improvements and extensions for this project include:
+
+* Fine-tuning the model with a larger blood cell dataset for improved performance.
+* Adding more classes for different types of blood cells or anomalies.
+* Deploying the model in a real-time medical application for automated diagnostics.
