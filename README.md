@@ -6,3 +6,9 @@ This repository contains a YOLOv10-based object detection model trained with the
 * Platelets
   
 The model is designed to detect and classify blood cells in microscopic images, an important task in medical diagnostics.
+
+-----------------------------------------------------------------------------
+
+# Dataset
+
+The **Blood Cell Detection** dataset is commonly used to evaluate object detection models in the field of medical imaging. It is a small-scale dataset, making it suitable for fast experimentation and benchmarking.
